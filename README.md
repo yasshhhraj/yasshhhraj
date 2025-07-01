@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Yashraj Jangir
+# 👋 Hey, I'm Yashraj Jangir <a href="https://www.linkedin.com/in/yashraj-jangir-a6111512b/" target="_blank"><img src="https://dn721804.ca.archive.org/0/items/github-readme-icons/linkedin-icon.png" alt="LinkedIn" height="20" style="vertical-align:middle; margin-left: 8px;" /></a>
 
-🚀 **Second-Year CS Student | Full-Stack Developer | AI Enthusiast**
+## 🚀 **Second-Year CS Student | Full-Stack Developer | AI Enthusiast**
 
 I'm passionate about building tools that blend **AI**, and **system-level automation** — whether it’s crafting interactive story engines or creating smart utilities to simplify everyday workflows.
 
