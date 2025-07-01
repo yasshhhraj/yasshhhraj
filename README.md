@@ -30,7 +30,7 @@ Tech: `Bash` `Cron` `Linux Scripting` `Shell Integration`
 Tech: `Ollama` `Prompt Engineering` `LLM APIs`
 
 ---
-## 🛠️ Projects I'm currently Working On 
+## 🛠️ Projects i've built
 ```
 pinned down
 ```
